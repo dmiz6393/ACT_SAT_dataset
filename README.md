@@ -72,8 +72,11 @@ I decided to instead focus on Oregon. Oregon does not require the SAT or ACT;  t
 In conclusion, I recommend the following we explore the following to increase partiicpation rates in Oregon: 
 
 -Data: Put time into making sure data we are working with is correct, given that the Florida participation rates were wrong. 
+
 -Market Research: Invest in market research. What drives states to require college admission exams? What makes states decide one exam over the other?  What is the current state of education in Oregon? Using this, we could try to understand how to frame the SAT as being a good test to require in the state.  
+
 -Marketing:  To increase student confidence in exam: offer webinars and free online resources via social media platforms for targeted audience.
+
 -Discounted price for the exam: Test whether or not this increases participation.  
 
 
