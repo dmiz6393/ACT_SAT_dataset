@@ -67,11 +67,13 @@ After analyzing the data and looking at state requirements and current events, t
 
 Initially, I noticed a significant drop in participation rates for the SAT in Florida; from 83% in 2017 to 56% in 2018. I wanted to understand why this change occured in Florida, since the state doesn't require either test and the SAT had a decent overall participation rate in 2017. I thought this could also be a good opportunity to get our participation rates up again in the state. After not being able to find anything that could explain this decrease, I discovered that the data in the file was incorrect. Florida actually had a 97% participation rate. 
 
-In conclusion, I recommend the following we explore the following: 
+I decided to instead focus on Oregon. Oregon does not require the SAT or ACT;  this makes for a good opportunity for us!  Oregon also has under 50% participation in both exams, which indicates that there is no strong preference for one exam or the other, and room for us to dominate the state. Oregon also ranks high in most educated states (http://worldpopulationreview.com/states/most-educated-states/). 
 
-Data: Put time into making sure data we are working with is correct, given that the Florida participation rates were wrong. 
-Market Research: Invest in market research. What drives states to require college admission exams? What makes states decide one exam over the other?  What is the current state of education in X state? 
-Marketing:  To increase student confidence in exam: offer webinars and free online resources via social media platforms for targeted audience.
-Discounted price for the exam: Test whether or not this increases participation.  
+In conclusion, I recommend the following we explore the following to increase partiicpation rates in Oregon: 
+
+-Data: Put time into making sure data we are working with is correct, given that the Florida participation rates were wrong. 
+-Market Research: Invest in market research. What drives states to require college admission exams? What makes states decide one exam over the other?  What is the current state of education in Oregon? Using this, we could try to understand how to frame the SAT as being a good test to require in the state.  
+-Marketing:  To increase student confidence in exam: offer webinars and free online resources via social media platforms for targeted audience.
+-Discounted price for the exam: Test whether or not this increases participation.  
 
 
